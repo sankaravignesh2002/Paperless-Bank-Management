@@ -23,4 +23,4 @@ Procedure to run Paperless Bank Software:
 
 10.After importing successfully,
 
-11.open any browser and type http://localhost/main.html ,test any of the services provided.
+11.open any browser and type http://localhost/paperless_bank-main/main.html ,test any of the services provided.
